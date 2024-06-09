@@ -8,12 +8,12 @@ import java.io.IOException;
 
 public class FusionarFicheros {
     public static void main(String[] args) {
-        String contenido1 = leerFichero("actividad1.txt");
-        String contenido2 = leerFichero("actividad2.txt");
+        String contenido1 = leerFichero("src/com/salesianos/files/actividad1.txt");
+        String contenido2 = leerFichero("src/com/salesianos/files/actividad2.txt");
 
         String contenidoFusionado = "- Contenido del Fichero Uno: " + contenido1 + "\n"
                 + "- Contenido del Fichero Dos: " + contenido2 + "\n"
-                + "\n-- Firma: Proyecto PROG-UD7-Ficheritos";
+                + "\n-- Firma: Supervisado por Ale";
 
         FileUtils.saveTextToFile("actividad3.txt", contenidoFusionado);
         System.out.println("Ficheros fusionados en actividad3.txt");

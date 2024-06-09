@@ -8,7 +8,7 @@ public class RecuperarTexto {
 
         // Crear el fichero y escribir texto en él
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
-            writer.write("Hola, pibe.");
+            writer.write("Chachoooo... carlosssss!!");
         } catch (IOException e) {
             e.printStackTrace();
         }

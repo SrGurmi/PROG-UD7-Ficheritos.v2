@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MesaManager {
-    private static final String FILE_NAME = "mesas.dat";
+    private static final String FILE_NAME = "src/com/salesianos/files/actividad4.txt";
 
     public static void guardarMesa(Mesa mesa) {
         List<Mesa> mesas = obtenerMesas();
