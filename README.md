@@ -49,8 +49,8 @@
 
 1. Mediante código, crea un fichero para esta actividad.
 2. Realiza un programa que fusione el contenido del fichero de la primera actividad con el contenido del fichero de la segunda actividad. El contenido resultante debe quedar como sigue:
-   - Contenido del Fichero Uno: `<CONTENIDO_CORRESPONDIENTE>`
-   - Contenido del Fichero Dos: `<CONTENIDO_CORRESPONDIENTE>`
+   - Contenido del Fichero Uno: `EJEMPLO_CONTENIDO`
+   - Contenido del Fichero Dos: `EJEMPLO_CONTENIDO`
 3. Añade un mensaje de firma en el fichero tras la copia de los contenidos.
 
 **Clase principal:** `FusionarFicheros.java`
