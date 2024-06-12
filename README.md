@@ -49,9 +49,10 @@
 
 1. Mediante código, crea un fichero para esta actividad.
 2. Realiza un programa que fusione el contenido del fichero de la primera actividad con el contenido del fichero de la segunda actividad. El contenido resultante debe quedar como sigue:
-   - Contenido del Fichero Uno: `EJEMPLO_CONTENIDO`
-   - Contenido del Fichero Dos: `EJEMPLO_CONTENIDO`
+   - Contenido del Fichero Uno: `HOLA_PIBE_QUE_TAL,_TODO_BIEN??`
+   - Contenido del Fichero Dos: `Chachoooo... carlosssss!!`
 3. Añade un mensaje de firma en el fichero tras la copia de los contenidos.
+   -Contenido del mensaje de firma: `Firma: Supervisado por Ale`
 
 **Clase principal:** `FusionarFicheros.java`
 
@@ -67,3 +68,6 @@
    - `Mostrar todas las mesas almacenadas`: Muestra todo el listado de mesas almacenadas en el fichero.
 
 **Clases principales:** `Mesa.java`, `MesaManager.java`, `Main.java`
+
+
+## Nuevo Contenido 
